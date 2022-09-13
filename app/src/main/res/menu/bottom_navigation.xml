@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/newsFragment"
+        android:title="@string/news"
+        android:icon="@drawable/ic_news_bottom_bar"
+        />
+    <item
+        android:id="@+id/publishersFragment"
+        android:title="@string/publics"
+        android:icon="@drawable/ic_publishers_bottom_bar"
+        />
+    <item
+        android:id="@+id/createFragment"
+        android:title="@string/create"
+        android:icon="@drawable/ic_create_bottom_bar"
+        />
+    <item
+        android:id="@+id/accountFragment"
+        android:title="@string/account"
+        android:icon="@drawable/ic_account_circle"
+        />
+    <item
+        android:id="@+id/settingsFragment"
+        android:title="@string/more"
+        android:icon="@drawable/ic_more_horiz"
+        />
+</menu>

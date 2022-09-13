@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_graph"
+    app:startDestination="@id/newsFragment">
+
+    <fragment
+        android:id="@+id/newsFragment"
+        android:name="it.swipes.app.news.NewsFragment"
+        android:label="fragment_news"
+        tools:layout="@layout/fragment_news" />
+    <fragment
+        android:id="@+id/publishersFragment"
+        android:name="it.swipes.app.publisher.PublishersFragment"
+        android:label="fragment_publishers"
+        tools:layout="@layout/fragment_publishers" >
+        <action
+            android:id="@+id/get_publisher"
+            app:destination="@id/publisherFragment"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left" />
+        <action
+            android:id="@+id/addPublisher"
+            app:destination="@id/addPublisherFragment"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left" />
+    </fragment>
+    <fragment
+        android:id="@+id/createFragment"
+        android:name="it.swipes.app.create.CreateFragment"
+        android:label="fragment_create"
+        tools:layout="@layout/fragment_create" />
+    <fragment
+        android:id="@+id/accountFragment"
+        android:name="it.swipes.app.account.AccountFragment"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_account" >
+        <action
+            android:id="@+id/to_editProfileFragment"
+            app:destination="@id/editProfileFragment"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left" />
+    </fragment>
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="it.swipes.app.settings.PreferencesFragment"
+        android:label="PreferencesFragment"
+        tools:layout="@layout/fragment_preferences"
+        />
+    <fragment
+        android:id="@+id/publisherFragment"
+        android:name="it.swipes.app.publisher.PublisherFragment"
+        android:label="fragment_publisher"
+        tools:layout="@layout/fragment_publisher" >
+        <action
+            android:id="@+id/back_to_publisher"
+            app:destination="@id/publishersFragment"
+            app:enterAnim="@anim/slide_in_left"
+            app:exitAnim="@anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/addPublisherFragment"
+        android:name="it.swipes.app.publisher.AddPublisherFragment"
+        android:label="fragment_add_publisher"
+        tools:layout="@layout/fragment_add_publisher" >
+        <action
+            android:id="@+id/back_from_add_publisher"
+            app:destination="@id/publishersFragment"
+            app:enterAnim="@anim/slide_in_left"
+            app:exitAnim="@anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/editProfileFragment"
+        android:name="it.swipes.app.account.EditProfileFragment"
+        android:label="fragment_edit_profile"
+        tools:layout="@layout/fragment_edit_profile" >
+        <action
+            android:id="@+id/back_to_accountFragment"
+            app:destination="@id/accountFragment"
+            app:enterAnim="@anim/slide_in_left"
+            app:exitAnim="@anim/slide_out_right" />
+    </fragment>
+</navigation>

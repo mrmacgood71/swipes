@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.22" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/drawable-v24/ic_like_foreground_active.xml" value="0.2195" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/drawable-v24/notifications-48px.xml" value="0.1" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/drawable/export.xml" value="0.1" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/drawable/get_started_button.xml" value="0.223" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/drawable/ic_account_circle.xml" value="0.22" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/drawable/ic_arrow_back_background.xml" value="0.101" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/drawable/ic_arrow_back_foreground.xml" value="0.215" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/drawable/ic_comment_foreground.xml" value="0.225" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/drawable/ic_create_bottom_bar.xml" value="0.22" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/drawable/ic_download_foreground.xml" value="0.225" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/drawable/ic_favorite_fill0_wght400_grad0_opsz48.xml" value="0.223" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/drawable/ic_file_download_fill0_wght400_grad0_opsz48.xml" value="0.22" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/drawable/ic_launcher_background.xml" value="0.22" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/drawable/ic_like_foreground.xml" value="0.225" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/drawable/ic_maps_ugc_fill0_wght400_grad0_opsz48.xml" value="0.22" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/drawable/ic_more_horiz.xml" value="0.22" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/drawable/ic_news_bottom_bar.xml" value="0.22" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/drawable/ic_notification_foreground.xml" value="0.225" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/drawable/ic_notifications_fill0_wght400_grad0_opsz48.xml" value="0.1" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/drawable/ic_publishers_bottom_bar.xml" value="0.22" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/drawable/publics_list_background.xml" value="0.1" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/drawable/search_background.xml" value="0.1" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/drawable/stats_button.xml" value="0.1995" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/layout/activity_add_public.xml" value="0.27575887131252674" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/layout/activity_edit.xml" value="0.22" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/layout/activity_profile_export.xml" value="0.25" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/layout/asdf.xml" value="0.25" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/layout/cards_layout.xml" value="0.33" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/layout/fragment_account.xml" value="0.33" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/layout/fragment_add_publisher.xml" value="0.33" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/layout/fragment_comments.xml" value="0.3052536231884058" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/layout/fragment_create.xml" value="0.3052536231884058" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/layout/fragment_edit_profile.xml" value="0.27575887131252674" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/layout/fragment_followed_news.xml" value="0.3052536231884058" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/layout/fragment_news.xml" value="0.33" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/layout/fragment_preferences.xml" value="0.25" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/layout/fragment_publisher.xml" value="0.33" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/layout/fragment_publishers.xml" value="0.5" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/layout/fragment_recommended_news.xml" value="0.3359375" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/layout/post_item.xml" value="0.5" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/layout/publics_list_item.xml" value="0.33" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/layout/sample_layout.xml" value="0.1" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/layout/slider_image.xml" value="0.1" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/menu/bottom_navigation.xml" value="0.1" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.22" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Swipes/app/src/main/res/xml/root_preferences.xml" value="0.3359375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.33" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
